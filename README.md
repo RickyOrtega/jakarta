@@ -10,3 +10,6 @@ Mi trayecto en Jakarta
 3. Cookies:
    1. [Cookies - Práctica](https://github.com/RickyOrtega/jakarta/commit/efb4e304167809a409a92463388f11940cdecb8f)
    2. [Cookies - Tarea](https://github.com/RickyOrtega/jakarta/commit/bb7605d0614498268405d88a7acdf3960faf5d66)
+4. Sessions:
+   1. [Sessions - Práctica](https://github.com/RickyOrtega/jakarta/tree/main/webapp-session)
+   2. [Sessions - Tarea](https://github.com/RickyOrtega/jakarta/tree/main/webapp-session-tarea5)
