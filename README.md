@@ -19,3 +19,6 @@ Mi trayecto en Jakarta
    1. [Carrito de compras - Práctica](https://github.com/RickyOrtega/jakarta/commit/3302af5f57ff007ce280bb26e1a9c6a09da034ad)
    2. [Carrito de compras - Tarea](https://github.com/RickyOrtega/jakarta/commit/5374cc02184a72fa04677708326c3b9fc8a6f66c)
 ---------------------------------------
+6. Listeners:
+   1. [Listeners - Práctica](https://github.com/RickyOrtega/jakarta/commit/9bb6781439132d3cc793f3e2256eeb7d84baf8f5)
+   2. [Listeners - Tarea](https://github.com/RickyOrtega/jakarta/commit/cfacab6dff46e1ed87c0a98b5f0f7a5740f3af07)
